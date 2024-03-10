@@ -1,0 +1,22 @@
+[
+    {
+      "question": "What JavaScript function prints its arguments to standard out?",
+      "possibleAnswers": [
+        "process.standardout",
+        "console.write",
+        "process.stdout.write",
+        "process.write"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the \".\" character mean with respect to linux file paths?",
+      "possibleAnswers": [
+        "Current direcory",
+        "Parent directory",
+        "Home directory",
+        "Root directory"
+      ],
+      "correctAnswer": 0
+    }
+  ]
